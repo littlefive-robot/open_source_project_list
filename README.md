@@ -25,7 +25,7 @@
 
 ---
 
-### 视觉抓取课程
+### 视觉抓取课程（平面抓取）
 - 项目教程：[Bilibili](https://www.bilibili.com/video/BV1zP4y1S7yy)
 - Jacquard 数据集: [百度网盘](https://pan.baidu.com/s/1524HrVAoHNlc6-9lcZaGew) 
 - 本项目代码: [百度网盘](https://pan.baidu.com/s/13Y8_XJuT1PVb702Pl3tp8A)  
@@ -33,7 +33,7 @@
 
 ---
 
-### ROS 机械臂入门教程代码 (version 3.0)
+### ROS 机械臂入门教程 + 六自由度视觉抓取
 - 项目教程：[Bilibili](https://www.bilibili.com/video/BV1m14y1u76E)
 - [百度网盘](https://pan.baidu.com/s/1KFLQXVWShG5KfroCd6eM0A)  
   提取码：8888  
