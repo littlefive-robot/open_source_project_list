@@ -17,7 +17,7 @@
 
 ## 📂 资料目录
 
-### 深蓝学院 ROS-MoveIt 课程
+### ROS-MoveIt 网课资源
 - 链接 1: [百度网盘](https://pan.baidu.com/s/1qp7oNel7_c1fjRTXPPQU0Q)  
   提取码：8888  
 - 链接 2: [百度网盘](https://pan.baidu.com/s/1XFUt0A80jLEEJEXFuyuRCQ)  
@@ -25,7 +25,7 @@
 
 ---
 
-### 视觉抓取
+### 视觉抓取课程
 - 项目教程：[Bilibili](https://www.bilibili.com/video/BV1zP4y1S7yy)
 - Jacquard 数据集: [百度网盘](https://pan.baidu.com/s/1524HrVAoHNlc6-9lcZaGew) 
 - 本项目代码: [百度网盘](https://pan.baidu.com/s/13Y8_XJuT1PVb702Pl3tp8A)  
