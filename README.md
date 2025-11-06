@@ -47,6 +47,12 @@
 
 ---
 
+### 机械臂路径规划课程
+- 项目教程：[Bilibili](https://www.bilibili.com/video/BV1G24y1M7ko/)
+
+---
+
+
 ## 💬 交流与学习
 
 - **微信群**  
